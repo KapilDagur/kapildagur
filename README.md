@@ -208,6 +208,24 @@ My focus areas:
 
 ---
 
+## `$ cat /oss/organizations.md`
+
+### ⚡ [FastAPI Extensions](https://github.com/fastapi-extensions) — *Founder & Maintainer*
+
+> An open-source community maintaining production-grade FastAPI extension libraries — built to the standards of the FastAPI ecosystem.
+
+[![Org](https://img.shields.io/badge/GitHub_Org-fastapi--extensions-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fastapi-extensions)
+[![FastAPI](https://img.shields.io/badge/Built_for-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Community](https://img.shields.io/badge/Community-Open_Source-orange?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/fastapi-extensions)
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) | Enterprise multi-tenancy library · 4 isolation strategies · async-first | [![PyPI](https://img.shields.io/pypi/v/fastapi-tenancy?style=flat-square&color=009688)](https://pypi.org/project/fastapi-tenancy/) |
+
+> 🚧 More extensions coming — contributions and ideas welcome!
+
+---
+
 ## `$ ping kapildagur`
 
 <div align="center">
