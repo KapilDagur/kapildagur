@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kapildagur-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kapildagur)
 [![Email](https://img.shields.io/badge/Email-kapildagur1306%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Noida%2C%20India-brightgreen?style=flat-square)](https://maps.google.com/?q=Noida,India)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/kapildagur/kapildagur/blob/main/Resume_-_KAPIL_DAGUR.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kapildagur/kapildagur/main/Resume_-_KAPIL_DAGUR.pdf)
 
 </div>
 
