@@ -15,7 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kapildagur-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kapildagur)
 [![Email](https://img.shields.io/badge/Email-kapildagur1306%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Noida%2C%20India-brightgreen?style=flat-square)](https://maps.google.com/?q=Noida,India)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kapildagur/kapildagur/main/Resume_-_KAPIL_DAGUR.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kapildagur.github.io-00E6A0?style=flat-square&logo=googlechrome&logoColor=white)](https://kapildagur.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kapildagur/kapildagur.github.io/main/Resume_-_KAPIL_DAGUR.pdf)
 
 </div>
 
@@ -43,7 +44,7 @@ class KapilDagur:
         "MCP-powered AI agents bridging LLMs with real-world services",
     ]
 
-    fun_fact = "Merged 2 PRs into SQLAlchemy — Python's most-used ORM 🐍"
+    fun_fact = "2 commits merged into SQLAlchemy — Python's most-used ORM 🐍"
 ```
 
 ---
@@ -59,8 +60,8 @@ class KapilDagur:
 | 🚀 Deployment Time | Cut by **60%** |
 | 📈 Concurrent Requests | Scaled **3×** |
 | 👥 Users Served | **10,000+** concurrent |
-| 🔧 SQLAlchemy PRs Merged | **2** (shipped in official releases) |
-| 📦 PyPI Packages Published | **2** production-ready |
+| 🔧 SQLAlchemy Commits Merged | **2** (released in 2.1.0b1) |
+| 📦 PyPI Packages Published | **1** production-ready |
 | 🧪 Test Coverage | **85–95%** across projects |
 
 </div>
@@ -109,7 +110,7 @@ class KapilDagur:
 
 ## `$ cat /projects/featured.json`
 
-### 🏗️ [fastapi-tenancy](https://github.com/kapildagur/fastapi-tenancy) — *PyPI Published*
+### 🏗️ [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) — *PyPI Published*
 > Enterprise-grade multi-tenancy library for FastAPI
 
 ```
@@ -118,7 +119,7 @@ pip install fastapi-tenancy
 
 [![PyPI](https://img.shields.io/pypi/v/fastapi-tenancy?style=flat-square&color=009688)](https://pypi.org/project/fastapi-tenancy/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/fastapi-tenancy/)
-[![License](https://img.shields.io/github/license/kapildagur/fastapi-tenancy?style=flat-square)](https://github.com/kapildagur/fastapi-tenancy)
+[![License](https://img.shields.io/github/license/fastapi-extensions/fastapi-tenancy?style=flat-square)](https://github.com/fastapi-extensions/fastapi-tenancy)
 
 - **4 isolation strategies** — schema-per-tenant, DB-per-tenant, RLS, hybrid
 - **Async-first** — `AsyncSession`, `contextvars`, zero blocking I/O
@@ -141,14 +142,14 @@ pip install fastapi-tenancy
 ---
 
 ### 🤝 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) — *Open Source Contributor*
-> Core contributor to Python's most widely used ORM
+> Contributor to Python's most widely used ORM
 
-[![PR #12761](https://img.shields.io/badge/PR%20%2312761-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/pull/12761)
-[![PR #6810](https://img.shields.io/badge/PR%20%236810-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/pull/6810)
+[![Commit 555a18ac](https://img.shields.io/badge/commit%20555a18ac-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/commit/555a18ac02)
+[![Commit e47d6526](https://img.shields.io/badge/commit%20e47d6526-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/commit/e47d652653)
 
-- Fixed critical **PostgreSQL ENUM/DOMAIN dialect type conflict** (#12761)
-- Enhanced **static type coverage** in `sqlalchemy.sql.base` for mypy (#6810)
-- Both PRs shipped in **official production releases**
+- Raised a clear error for **PostgreSQL ENUM/DOMAIN types using a reserved name** — issue [#12761](https://github.com/sqlalchemy/sqlalchemy/issues/12761), PR [#12822](https://github.com/sqlalchemy/sqlalchemy/pull/12822)
+- Expanded **inline PEP 484 type coverage** in `sqlalchemy.sql.base` — issue [#6810](https://github.com/sqlalchemy/sqlalchemy/issues/6810), PR [#12707](https://github.com/sqlalchemy/sqlalchemy/pull/12707)
+- Both merged through SQLAlchemy's Gerrit workflow and released in **2.1.0b1**
 
 ---
 
@@ -237,6 +238,7 @@ I'm always open to collaborating on **open source Python projects**, discussing 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapildagur)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapildagur)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-00E6A0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kapildagur.github.io)
 
 ---
 
