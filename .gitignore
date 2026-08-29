@@ -1,0 +1,7 @@
+# Claude Code agent worktrees - local only, never part of the profile repo
+.claude/
+
+# Resume source and the built PDF live in the kapildagur.github.io repo,
+# next to the site that publishes them. Kept here only as a scratch copy.
+resume.latex
+*.pdf

@@ -26,13 +26,14 @@
 
 ```python
 class KapilDagur:
-    role        = "Backend Software Engineer"
-    experience  = "2+ years"
+    role        = "Software Engineer @ SurePass Technologies"
+    experience  = "3+ years"
     location    = "Noida, India"
-    education   = "M.Tech CSE @ AKTU (ongoing) · B.Tech CSE (2024)"
+    education   = "M.Tech CSE @ AKTU (2026, 8.29 CGPA) · B.Tech CSE (2024)"
 
     expertise   = [
         "Scalable RESTful APIs",
+        "RBI Account Aggregator & Consent Systems",
         "Multi-tenant SaaS Platforms",
         "Agentic AI & Model Context Protocol (MCP)",
         "Open Source Contributions",
@@ -100,6 +101,12 @@ class KapilDagur:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
+### Fintech / Account Aggregator
+![RBI AA](https://img.shields.io/badge/RBI_Account_Aggregator-0A6E4A?style=flat-square&logoColor=white)
+![Consent](https://img.shields.io/badge/Consent_Management-1A569B?style=flat-square&logoColor=white)
+![FIU/FIP](https://img.shields.io/badge/FIU%2FFIP_%26_TSP_Integration-6A3D9A?style=flat-square&logoColor=white)
+![BSA](https://img.shields.io/badge/Bank_Statement_Analysis-B8860B?style=flat-square&logoColor=white)
+
 ### Agentic AI & MCP
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-D4A574?style=flat-square&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
@@ -156,7 +163,14 @@ pip install fastapi-tenancy
 ## `$ cat /experience/timeline.md`
 
 ```
-[Apr 2024 – Present]  Python Backend Developer @ In2IT Technologies Pvt. Ltd.
+[Apr 2026 – Present]  Software Engineer @ SurePass Technologies Pvt. Ltd.
+                      ├── finpass.ai  →  Account Aggregator subsidiary · NBFC lending clients
+                      ├── Consent system for the RBI Account Aggregator flow
+                      ├── Multi-AA vault  →  secure financial-information storage
+                      ├── Multi-AA / TSP integration for uninterrupted AA delivery
+                      └── Bank statement analyzer  →  faster + lower running cost
+
+[Apr 2024 – Apr 2026]  Python Backend Developer @ In2IT Technologies Pvt. Ltd.
                       ├── iProvision  →  Network mgmt platform · 10,000+ concurrent users
                       ├── iDashboard  →  Apache Superset successor · live data streaming
                       ├── ProWatch    →  Enterprise access control · real-time event pipelines
