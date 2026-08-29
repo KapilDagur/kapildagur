@@ -133,19 +133,6 @@ pip install fastapi-tenancy
 - **Auto dialect detection** — PostgreSQL, MySQL, SQLite, MSSQL
 - **95%+ test coverage** · JWT Auth · Alembic migrations
 
-<!--
----
-
-### 🔌 [netbox-ftp](https://pypi.org/project/netbox-ftp/) — *PyPI Published*
-> Production NetBox plugin for enterprise network file management
-
-[![PyPI](https://img.shields.io/pypi/v/netbox-ftp-plugin?style=flat-square&color=0066CC)](https://pypi.org/project/netbox-ftp/)
-![Stack](https://img.shields.io/badge/Django%20%7C%20DRF%20%7C%20GraphQL%20%7C%20PostgreSQL-092E20?style=flat-square)
-
-- **7 core models** · Full REST + GraphQL (Strawberry) APIs
-- **RBAC**, SQL injection & CSRF protection, Alembic migrations
-- Complete documentation · GitHub Actions CI/CD
--->
 ---
 
 ### 🤝 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) — *Open Source Contributor*
