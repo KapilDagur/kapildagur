@@ -209,16 +209,6 @@ My focus areas:
 
 ---
 
-## `$ neofetch --github-stats`
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kapildagur&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
 ## `$ cat /oss/organizations.md`
 
 ### ⚡ [FastAPI Extensions](https://github.com/fastapi-extensions) — *Founder & Maintainer*
@@ -253,7 +243,5 @@ I'm always open to collaborating on **open source Python projects**, discussing 
 ---
 
 *"First, solve the problem. Then, write the code." — John Johnson*
-
-![Profile Views](https://komarev.com/ghpvc/?username=kapildagur&style=flat-square&color=brightgreen)
 
 </div>
